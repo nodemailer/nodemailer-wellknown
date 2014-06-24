@@ -1,0 +1,26 @@
+{
+  "name": "nodemailer-wellknown",
+  "version": "0.1.0",
+  "description": "Well known SMTP services",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andris9/nodemailer-wellknown.git"
+  },
+  "keywords": [
+    "SMTP",
+    "Nodemailer"
+  ],
+  "author": "Andris Reinman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andris9/nodemailer-wellknown/issues"
+  },
+  "homepage": "https://github.com/andris9/nodemailer-wellknown",
+  "devDependencies": {
+    "nodeunit": "^0.9.0"
+  }
+}
