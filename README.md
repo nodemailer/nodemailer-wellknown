@@ -23,6 +23,33 @@ var config = wellknown('Gmail');
 //   secureConnection: true }
 ```
 
+## Supported services
+
+  * AOL
+  * DynectEmail
+  * FastMail
+  * Gmail
+  * Godaddy
+  * GodaddyAsia
+  * GodaddyEurope
+  * hot.ee
+  * Hotmail
+  * iCloud
+  * mail.ee
+  * Mail.ru
+  * Mailgun
+  * Mailjet
+  * Mandrill
+  * Postmark
+  * QQ
+  * QQex
+  * SendCloud
+  * SendGrid
+  * SES
+  * Yahoo
+  * Yandex
+  * Zoho
+
 ## License
 
 **MIT**
