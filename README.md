@@ -20,7 +20,7 @@ Resolve SMTP settings
 var config = wellknown('Gmail');
 // { host: 'smtp.gmail.com',
 //   port: 465,
-//   secureConnection: true }
+//   secure: true }
 ```
 
 ## Supported services

@@ -20,7 +20,7 @@
         ],
         "host": "mail.messagingengine.com",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "Gmail": {
@@ -33,7 +33,7 @@
         ],
         "host": "smtp.gmail.com",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "Godaddy": {
@@ -89,7 +89,7 @@
     "Mail.ru": {
         "host": "smtp.mail.ru",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "Mailgun": {
@@ -113,7 +113,7 @@
     "Postmark": {
         "aliases": ["PostmarkApp"],
         "host": "smtp.postmarkapp.com",
-        "port": 25
+        "port": 2525
     },
 
     "QQ": {
@@ -122,7 +122,7 @@
         ],
         "host": "smtp.qq.com",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "QQex": {
@@ -132,7 +132,7 @@
         ],
         "host": "smtp.exmail.qq.com",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "SendCloud": {
@@ -148,7 +148,7 @@
     "SES": {
         "host": "email-smtp.us-east-1.amazonaws.com",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "Yahoo": {
@@ -157,7 +157,7 @@
         ],
         "host": "smtp.mail.yahoo.com",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "Yandex": {
@@ -166,13 +166,13 @@
         ],
         "host": "smtp.yandex.ru",
         "port": 465,
-        "secureConnection": true
+        "secure": true
     },
 
     "Zoho": {
         "host": "smtp.zoho.com",
         "port": 465,
-        "secureConnection": true,
+        "secure": true,
         "authMethod": "LOGIN"
     }
 
