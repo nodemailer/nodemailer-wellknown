@@ -25,30 +25,41 @@ var config = wellknown('Gmail');
 
 ## Supported services
 
-  * AOL
-  * DynectEmail
-  * FastMail
-  * Gmail
-  * Godaddy
-  * GodaddyAsia
-  * GodaddyEurope
-  * hot.ee
-  * Hotmail
-  * iCloud
-  * mail.ee
-  * Mail.ru
-  * Mailgun
-  * Mailjet
-  * Mandrill
-  * Postmark
-  * QQ
-  * QQex
-  * SendCloud
-  * SendGrid
-  * SES
-  * Yahoo
-  * Yandex
-  * Zoho
+Service names are case insensitive
+
+  * **'AOL'**
+  * **'DynectEmail'**
+  * **'FastMail'**
+  * **'Gmail'**
+  * **'Godaddy'**
+  * **'GodaddyAsia'**
+  * **'GodaddyEurope'**
+  * **'hot.ee'**
+  * **'Hotmail'**
+  * **'iCloud'**
+  * **'mail.ee'**
+  * **'Mail.ru'**
+  * **'Mailgun'**
+  * **'Mailjet'**
+  * **'Mandrill'**
+  * **'Postmark'**
+  * **'QQ'**
+  * **'QQex'**
+  * **'SendCloud'**
+  * **'SendGrid'**
+  * **'SES'**
+  * **'Yahoo'**
+  * **'Yandex'**
+  * **'Zoho'**
+
+### Example usage with Nodemailer
+
+```javascript
+var transporter = nodemailer.createTransport({
+     service: 'postmark' // <- resolved as 'Postmark' from the wellknown info
+     auth: {...}
+});
+```
 
 ## License
 
