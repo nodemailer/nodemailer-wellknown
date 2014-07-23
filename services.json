@@ -1,5 +1,11 @@
 {
-
+    "1und1": {
+        "host": "smtp.1und1.de",
+        "port": 465,
+        "secure": true,
+        "authMethod": "LOGIN"
+    },
+    
     "AOL": {
         "domains": [
             "aol.com"
