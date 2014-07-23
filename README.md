@@ -27,6 +27,7 @@ var config = wellknown('Gmail');
 
 Service names are case insensitive
 
+  * **'1und1'**
   * **'AOL'**
   * **'DynectEmail'**
   * **'FastMail'**
@@ -53,6 +54,11 @@ Service names are case insensitive
   * **'Zoho'**
 
 ### Example usage with Nodemailer
+
+> **NB!** This repo might be updated more often than Nodemailer itself, so in case
+> a wellknown host is not working, check that you have the latest version of
+> nodemailer-wellknown installed in your node_modules. Otherwise the data you try
+> to use might be still missing.
 
 ```javascript
 var transporter = nodemailer.createTransport({

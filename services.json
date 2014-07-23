@@ -5,7 +5,7 @@
         "secure": true,
         "authMethod": "LOGIN"
     },
-    
+
     "AOL": {
         "domains": [
             "aol.com"
