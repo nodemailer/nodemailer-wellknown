@@ -100,10 +100,7 @@
 
     "Mailgun": {
         "host": "smtp.mailgun.org",
-        "port": 587,
-        "tls": {
-            "ciphers": "SSLv3"
-        }
+        "port": 587
     },
 
     "Mailjet": {
