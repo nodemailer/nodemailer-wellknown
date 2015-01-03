@@ -29,6 +29,15 @@
         "secure": true
     },
 
+    "GandiMail": {
+        "aliases": [
+            "Gandi",
+            "Gandi Mail"
+        ],
+        "host": "mail.gandi.net",
+        "port": 587
+    },
+
     "Gmail": {
         "aliases": [
             "Google Mail"

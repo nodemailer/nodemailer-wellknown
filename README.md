@@ -31,6 +31,7 @@ Service names are case insensitive
   * **'AOL'**
   * **'DynectEmail'**
   * **'FastMail'**
+  * **'GandiMail'**
   * **'Gmail'**
   * **'Godaddy'**
   * **'GodaddyAsia'**
