@@ -14,6 +14,11 @@
         "port": 587
     },
 
+    "DebugMail": {
+        "host": "debugmail.io",
+        "port": 25
+    },
+
     "DynectEmail": {
         "aliases": ["Dynect"],
         "host": "smtp.dynect.net",
