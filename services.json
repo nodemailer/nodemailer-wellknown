@@ -186,6 +186,16 @@
         "port": 465,
         "secure": true,
         "authMethod": "LOGIN"
+    },
+    "126": {
+        "host": "smtp.126.com",
+        "port": 465,
+        "secure": true
+    },
+    "163": {
+        "host": "smtp.163.com",
+        "port": 465,
+        "secure": true
     }
 
 }
