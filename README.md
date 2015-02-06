@@ -44,6 +44,7 @@ Service names are case insensitive
   * **'Mailgun'**
   * **'Mailjet'**
   * **'Mandrill'**
+  * **'Naver'**
   * **'Postmark'**
   * **'QQ'**
   * **'QQex'**
