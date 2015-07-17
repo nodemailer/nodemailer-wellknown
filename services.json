@@ -168,6 +168,20 @@
         "secure": true
     },
 
+    "Sparkpost": {
+        "aliases": [
+            "SparkPost",
+            "SparkPost Mail"
+        ],
+        "domains": [
+            "sparkpost.com"
+        ],
+        "host": "smtp.sparkpostmail.com",
+        "port": 587,
+        "secure": false,
+        "tls": true
+    },
+
     "Yahoo": {
         "domains": [
             "yahoo.com"
