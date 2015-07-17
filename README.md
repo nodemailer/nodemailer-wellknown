@@ -29,6 +29,7 @@ Service names are case insensitive
 
   * **'1und1'**
   * **'AOL'**
+  * **'DebugMail.io'**
   * **'DynectEmail'**
   * **'FastMail'**
   * **'GandiMail'**
