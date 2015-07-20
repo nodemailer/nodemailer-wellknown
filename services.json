@@ -14,6 +14,11 @@
         "port": 587
     },
 
+    "DebugMail": {
+        "host": "debugmail.io",
+        "port": 25
+    },
+
     "DynectEmail": {
         "aliases": ["Dynect"],
         "host": "smtp.dynect.net",
@@ -166,6 +171,20 @@
         "host": "email-smtp.us-east-1.amazonaws.com",
         "port": 465,
         "secure": true
+    },
+
+    "Sparkpost": {
+        "aliases": [
+            "SparkPost",
+            "SparkPost Mail"
+        ],
+        "domains": [
+            "sparkpost.com"
+        ],
+        "host": "smtp.sparkpostmail.com",
+        "port": 587,
+        "secure": false,
+        "tls": true
     },
 
     "Yahoo": {
