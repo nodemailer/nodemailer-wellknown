@@ -52,6 +52,7 @@ Service names are case insensitive
   * **'SendCloud'**
   * **'SendGrid'**
   * **'SES'**
+  * **'Sparkpost'**
   * **'Yahoo'**
   * **'Yandex'**
   * **'Zoho'**
