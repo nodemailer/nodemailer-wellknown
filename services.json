@@ -112,6 +112,11 @@
         "secure": true
     },
 
+    "Maildev": {
+        "port": 1025,
+        "ignoreTLS": true
+    },
+
     "Mailgun": {
         "host": "smtp.mailgun.org",
         "port": 587
