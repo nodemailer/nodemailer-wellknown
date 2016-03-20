@@ -137,6 +137,16 @@
         "port": 587
     },
 
+    "OpenMailBox": {
+        "aliases": [
+            "OMB",
+            "openmailbox.org"
+        ],
+        "host": "smtp.openmailbox.org",
+        "port": 465,
+        "secure": true
+    },
+
     "Postmark": {
         "aliases": ["PostmarkApp"],
         "host": "smtp.postmarkapp.com",
