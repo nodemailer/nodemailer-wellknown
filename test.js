@@ -1,3 +1,5 @@
+'use strict';
+
 var wellknown = require('./index');
 
 module.exports['Find by key'] = function(test) {

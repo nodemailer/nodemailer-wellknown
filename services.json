@@ -127,13 +127,13 @@
         "port": 587
     },
 
-    "Naver": {
-        "host": "smtp.naver.com",
+    "Mandrill": {
+        "host": "smtp.mandrillapp.com",
         "port": 587
     },
 
-    "Mandrill": {
-        "host": "smtp.mandrillapp.com",
+    "Naver": {
+        "host": "smtp.naver.com",
         "port": 587
     },
 
@@ -198,8 +198,7 @@
         ],
         "host": "smtp.sparkpostmail.com",
         "port": 587,
-        "secure": false,
-        "tls": true
+        "secure": false
     },
 
     "Yahoo": {
