@@ -53,6 +53,9 @@ Service names are case insensitive
   * **'SendCloud'**
   * **'SendGrid'**
   * **'SES'**
+  * **'SES-US-EAST-1'**
+  * **'SES-US-WEST-1'**
+  * **'SES-EU-WEST-1'**
   * **'Sparkpost'**
   * **'Yahoo'**
   * **'Yandex'**

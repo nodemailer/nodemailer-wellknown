@@ -187,6 +187,22 @@
         "port": 465,
         "secure": true
     },
+    "SES-US-EAST-1": {
+        "host": "email-smtp.us-east-1.amazonaws.com",
+        "port": 465,
+        "secure": true
+    },
+    "SES-US-WEST-1": {
+        "host": "email-smtp.us-west-1.amazonaws.com",
+        "port": 465,
+        "secure": true
+    },
+    "SES-EU-WEST-1": {
+        "host": "email-smtp.eu-west-1.amazonaws.com",
+        "port": 465,
+        "secure": true
+    },
+    
 
     "Sparkpost": {
         "aliases": [
