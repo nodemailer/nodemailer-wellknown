@@ -192,8 +192,8 @@
         "port": 465,
         "secure": true
     },
-    "SES-US-WEST-1": {
-        "host": "email-smtp.us-west-1.amazonaws.com",
+    "SES-US-WEST-2": {
+        "host": "email-smtp.us-west-2.amazonaws.com",
         "port": 465,
         "secure": true
     },
