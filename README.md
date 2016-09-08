@@ -52,6 +52,7 @@ Service names are case insensitive
   * **'QQex'**
   * **'SendCloud'**
   * **'SendGrid'**
+  * **'SendinBlue'**
   * **'SES'**
   * **'SES-US-EAST-1'**
   * **'SES-US-WEST-2'**

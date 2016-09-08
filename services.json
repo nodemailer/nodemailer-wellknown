@@ -182,6 +182,11 @@
         "port": 587
     },
 
+    "SendinBlue": {
+        "host": "smtp-relay.sendinblue.com",
+        "port": 587
+    },
+
     "SES": {
         "host": "email-smtp.us-east-1.amazonaws.com",
         "port": 465,
