@@ -47,6 +47,7 @@ Service names are case insensitive
   * **'Mandrill'**
   * **'Naver'**
   * **'OpenMailBox'**
+  * **'Outlook365'**
   * **'Postmark'**
   * **'QQ'**
   * **'QQex'**
