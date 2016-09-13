@@ -147,6 +147,15 @@
         "secure": true
     },
 
+    "Outlook365": {
+      "host": "smtp.office365.com",
+      "port": 587,
+      "secure": false,
+      "tls": {
+          "ciphers": "SSLv3"
+      }
+    },
+
     "Postmark": {
         "aliases": ["PostmarkApp"],
         "host": "smtp.postmarkapp.com",
@@ -202,7 +211,7 @@
         "port": 465,
         "secure": true
     },
-    
+
 
     "Sparkpost": {
         "aliases": [
