@@ -1,6 +1,6 @@
 {
   "name": "nodemailer-wellknown",
-  "version": "0.1.10",
+  "version": "0.2.0",
   "description": "Well known SMTP services",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/andris9/nodemailer-wellknown",
   "devDependencies": {
-    "nodeunit": "^0.9.1"
+    "nodeunit": "^0.10.2"
   }
 }
