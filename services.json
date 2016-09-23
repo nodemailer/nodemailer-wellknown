@@ -153,6 +153,12 @@
       "secure": false
     },
 
+    "Pepipost": {
+        "aliases": ["Pepipost"],
+        "host": "smtp.pepipost.com",
+        "port": 2525
+    },
+
     "Postmark": {
         "aliases": ["PostmarkApp"],
         "host": "smtp.postmarkapp.com",

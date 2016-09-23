@@ -48,6 +48,7 @@ Service names are case insensitive
   * **'Naver'**
   * **'OpenMailBox'**
   * **'Outlook365'**
+  * **'Pepipost'**
   * **'Postmark'**
   * **'QQ'**
   * **'QQex'**
