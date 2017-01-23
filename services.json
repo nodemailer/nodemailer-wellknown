@@ -261,6 +261,10 @@
         "host": "smtp.163.com",
         "port": 465,
         "secure": true
+    },
+    "qiye.aliyun": {
+        "host":"smtp.mxhichina.com",
+        "port":"465",
+        "secure": true
     }
-
 }
