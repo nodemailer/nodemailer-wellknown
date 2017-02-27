@@ -44,6 +44,7 @@ Service names are case insensitive
   * **'Mail.ru'**
   * **'Mailgun'**
   * **'Mailjet'**
+  * **'Mailosaur'**
   * **'Mandrill'**
   * **'Naver'**
   * **'OpenMailBox'**
