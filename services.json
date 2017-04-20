@@ -232,6 +232,14 @@
         "port": 587,
         "secure": false
     },
+    
+    "Tipimail": {
+        "aliases": [
+            "tipimail"
+        ],
+        "host": "smtp.tipimail.com",
+        "port": 587
+    },
 
     "Yahoo": {
         "domains": [
