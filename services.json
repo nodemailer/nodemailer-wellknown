@@ -279,5 +279,15 @@
         "host":"smtp.mxhichina.com",
         "port":"465",
         "secure": true
+    },
+    "One": {
+        "host": "send.one.com",
+        "port": 465,
+        "secure": true
+    },
+    "DreamHost": {
+        "host": "sub4.mail.dreamhost.com",
+        "port": 465,
+        "secure": true
     }
 }
