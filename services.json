@@ -279,5 +279,35 @@
         "host":"smtp.mxhichina.com",
         "port":"465",
         "secure": true
+    },
+    "One": {
+        "host": "send.one.com",
+        "port": 465,
+        "secure": true
+    },
+    "DREAMHOST-SUB-0": {
+        "host": "smtp.dreamhost.com",
+        "port": 465,
+        "secure": true
+    },
+    "DREAMHOST-SUB-3": {
+        "host": "sub3.mail.dreamhost.com",
+        "port": 465,
+        "secure": true
+    },
+    "DREAMHOST-SUB-4": {
+        "host": "sub4.mail.dreamhost.com",
+        "port": 465,
+        "secure": true
+    },
+    "DREAMHOST-SUB-5": {
+        "host": "sub5.mail.dreamhost.com",
+        "port": 465,
+        "secure": true
+    },
+    "DREAMHOST-MASTER": {
+        "host": "homie.mail.dreamhost.com",
+        "port": 465,
+        "secure": true
     }
 }
