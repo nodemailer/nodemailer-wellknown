@@ -122,6 +122,12 @@
         "port": 465,
         "secure": true
     },
+    
+    "MailgunEurope": {
+        "host": "smtp.eu.mailgun.org",
+        "port": 465,
+        "secure": true
+    },
 
     "Mailjet": {
         "host": "in.mailjet.com",
